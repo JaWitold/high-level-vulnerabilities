@@ -6,7 +6,6 @@ This repository contains solutions to high level vulnerabilities in the WebGoat 
 
 - Docker
 - Burp Suite
-- Firefox
 
 ## Setup
 
@@ -16,16 +15,15 @@ This repository contains solutions to high level vulnerabilities in the WebGoat 
     git clone https://github.com/JaWitold/high-level-vulnerabilities.git
     ```
 
-2. Install Docker, Burp Suite, Firefox
+2. Install Docker, Burp Suite
 3. Run the following command in the terminal to start WebGoat on Docker:
 
     ``` bash
     docker run --name WebGoat -p 8081:8080 -p 9090:9090 -p 80:8888 -e TZ=Europe/Warsaw webgoat/goatandwolf:latest
     ```
 
-4. Set up Burp proxy and SSL certificate in Firefox
-5. Open a browser and navigate to <http://localhost:8081/WebGoat/>
-6. Follow the instructions to complete the exercises and view the solutions in this repository.
+4. Open a browser and navigate to <http://localhost:8081/WebGoat/>
+5. Follow the instructions to complete the exercises and view the solutions in this repository.
 
 ## Solutions
 

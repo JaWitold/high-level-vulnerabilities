@@ -159,4 +159,4 @@ This lesson is just about guessing colors. It\`s easy.
 
 ### Lesson 4: How long could it take to brute force your password?
 
-go to [lastpass password generator](https://www.lastpass.com/features/password-generator#generatorTool) and generate 20 characters long password eg. `YTBC&05B1PJ!F8GI&o5z`
+Go to [lastpass password generator](https://www.lastpass.com/features/password-generator#generatorTool) and generate 20 characters long password eg. `YTBC&05B1PJ!F8GI&o5z`
